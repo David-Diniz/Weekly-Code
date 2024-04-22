@@ -1,0 +1,19 @@
+Weekly Coding Question 2 
+
+Given a 2D n by n matrix of integers where each coordinate in the matrix stores it's distance from a point (x, y). Where unit distance up, down, and diagonally is 1
+
+Write a function findPoint(distanceMatrix, n) that returns the point (x, y).
+
+For example, for the input 
+[
+[5, 5, 5, 5, 5, 5, 5, 5],
+[4, 4, 4, 4, 4, 4, 4, 4],
+[3, 3, 3, 3, 3, 3, 3, 4],
+[3, 2, 2, 2, 2, 2, 3, 4],
+[3, 2, 1, 1, 1, 2, 3, 4],
+[3, 2, 1, 0, 1, 2, 3, 4],
+[3, 2, 1, 1, 1, 2, 3, 4],
+[3, 2, 2, 2, 2, 2, 3, 4],
+]
+
+The answer is: (5, 3)
