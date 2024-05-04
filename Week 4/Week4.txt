@@ -1,0 +1,5 @@
+Weekly Coding Question Week 4 
+
+You are provided with an n sized array of integers nums in sorted order smallest to largest. You are provided with an integer target. 
+
+Write a function findSum(nums, n, target) that outputs two different indices (as a list) in nums whos values sum to target 
